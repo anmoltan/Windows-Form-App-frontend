@@ -1,0 +1,15 @@
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.vbproj.AssemblyReference.cache
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.CreateSubmissionForm.resources
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.Resources.resources
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.ViewSubmissionsForm.resources
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.vbproj.GenerateResource.cache
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.vbproj.CoreCompileInputs.cache
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.MainForm.resources
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\bin\Debug\myforms_app.exe.config
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\bin\Debug\myforms_app.exe
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\bin\Debug\myforms_app.pdb
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\bin\Debug\myforms_app.xml
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.exe
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.xml
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.pdb
+E:\Projects\SlidelyAI_task2\frontend\myforms_app\obj\Debug\myforms_app.Form1.resources
